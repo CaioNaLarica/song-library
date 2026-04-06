@@ -36,7 +36,7 @@ def sing():
     write("Prometo, teremos problemas, mas nunca sem solução", 0.05) 
     console.print()
     write("Promessas à parte, ficaremos sempre assim", 0.05, "yellow") 
-    write("Eu gostando de você e você gostando de mim", 0.05) 
+    write("Eu gostando de você e você gostando de mim", 0.06) 
     
 
   

@@ -39,7 +39,7 @@ def sing():
     write("Alone again", 0.12,"blue")
     time.sleep(1.5)
     console.print()
-    write("Alone again", 0.12) 
+    write("Alone", 0.15) 
     
 
   
